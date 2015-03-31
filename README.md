@@ -1,3 +1,9 @@
+#Please do not use this repository to open new issues or send pull requests! Use FreeMedForms/freemedforms instead.
+
+#This is an archive of former Google Code repository https://code.google.com/p/freemedforms/
+We created this archive to give easy access to unresolved past issues, and to preserve them when Google Code closure becomes effective on January 25th, 2016.
+
+
 # The FreeMeForms Project
 # Copyright (C) 2008-2015 by Eric MAEKER
 # [website]
